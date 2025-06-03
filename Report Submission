@@ -1,0 +1,7 @@
+This report is submitted as the final project for the Career Prediction System using Machine Learning. It includes all the essential components required for a complete academic or professional project submission. The report covers the background and motivation for the project, the societal and industrial impact, the problem statement, key research questions, contributions, and dataset description. It also provides a detailed explanation of the methodology used, including data preprocessing, feature engineering, model selection, and evaluation techniques.
+
+The models implemented—Multinomial Naive Bayes and Logistic Regression—have been thoroughly tested, and their performance has been compared. The project includes discussion of hyperparameter settings and justifies the selection of the final model based on accuracy and performance. The source code, dataset, and instructions for running the project are clearly documented in the attached Jupyter Notebook (CareerPredicts.ipynb). All necessary libraries and steps for replication are listed in the installation section.
+
+This submission aims to demonstrate not just technical skill in machine learning and data handling, but also critical thinking in identifying a real-world problem and designing a solution that could benefit both individuals and organizations. The reflection section highlights lessons learned and potential areas for further development.
+
+All required files, including the report and the notebook, are organized and submitted as per the project guidelines.
