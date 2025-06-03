@@ -1,0 +1,3 @@
+Naive Bayes: 90.07%
+Logistic Regression: 92.40%
+Logistic Regression performed better and was selected as the final model.
