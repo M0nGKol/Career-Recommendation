@@ -1,0 +1,8 @@
+ML Model Selection
+- Multinomial Naive Bayes
+- Logistic Regression
+
++ Why?
+- Naive Bayes: Works well with text data and is fast.
+
+- Logistic Regression: Reliable for multi-class classification and provides better accuracy on this dataset.
