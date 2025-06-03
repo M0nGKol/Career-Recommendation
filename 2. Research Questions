@@ -1,0 +1,5 @@
+What: What career paths can be predicted based on a person’s mix of technical skills?
+
+Why: Why is this important? Because it can guide individuals toward careers they are well-suited for and assist companies in hiring efficiently.
+
+How: By using machine learning models to learn from a dataset that maps skills to careers, and using that learning to predict suitable careers.
