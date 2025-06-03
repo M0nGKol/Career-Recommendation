@@ -1,0 +1,7 @@
+1. Data Loading: Read the Excel dataset using pandas.
+2. Exploration: Analyzed frequency of careers and skill distributions.
+3. Preprocessing:
+    Used CountVectorizer to convert text skills into numeric format.
+    Encoded career labels using LabelEncoder.
+4. Splitting: Divided data into training and testing sets (80/20 split).
+5. Model Training: Used two classification models to predict career based on skills.
